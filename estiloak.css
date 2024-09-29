@@ -15,4 +15,7 @@
 
 .right {
     flex: 0.75;
-} 
+}
+input[readonly]{
+            cursor: default; /* Cambia el cursor */
+}
