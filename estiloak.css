@@ -11,10 +11,8 @@
 
 .left {
     flex: 0.25;
-    background-color: lightgreen;
 }
 
 .right {
     flex: 0.75;
-    background-color: lightblue;
 } 
